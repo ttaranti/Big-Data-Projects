@@ -1,0 +1,4 @@
+com/bigdata/EntityAnalysisMRJob$EntityReducer.class
+com/bigdata/EntityAnalysisMRJob.class
+com/bigdata/EntityAnalysisMRJob$EntityMapper.class
+com/bigdata/EntityAnalysisMRJob$EntityReducerClusterSeeds.class
