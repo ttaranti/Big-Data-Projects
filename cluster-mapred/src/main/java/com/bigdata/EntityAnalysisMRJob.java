@@ -21,14 +21,14 @@ public class EntityAnalysisMRJob extends Configured implements Tool {
 
 	private static String projectRootPath = System.getProperty("user.dir");
 
-	public static final boolean runOnCluster = true;
+	public static final boolean runOnCluster = false;
 
 	private static final String END_CLUSTER_FLAG = "END_CLUSTER_FLAG";
 	private static final String START_CLUSTER_FLAG = "START_CLUSTER_FLAG";
 
 	private static final String raw_data = "ComercialBanks.csv";
 	private static final String mapped_data = "output";
-	private static final String mappedDataForAnalysis = "/mapped_data";
+	private static final String mappedDataForAnalysis = "mapped_data";
 
 	private static Path outputFile;
 	private static Path inputFile;
@@ -71,7 +71,7 @@ public class EntityAnalysisMRJob extends Configured implements Tool {
 				}
 		}
 		
-		File localOutputDirectory = new File(String.format("%s%s", projectRootPath, "/output"));
+		File localOutputDirectory = new File(String.format("%s/%s", projectRootPath, mapped_data));
 
 		if (localOutputDirectory.exists()) {
 
@@ -82,7 +82,7 @@ public class EntityAnalysisMRJob extends Configured implements Tool {
 
 		}
 
-		File localMappedDirectory = new File(String.format("%s%s", projectRootPath, "/mapped_data"));
+		File localMappedDirectory = new File(String.format("%s/%s", projectRootPath, mappedDataForAnalysis));
 
 		if (localMappedDirectory.exists()) {
 
@@ -115,7 +115,7 @@ public class EntityAnalysisMRJob extends Configured implements Tool {
 
 		FileSystem fs = FileSystem.get(conf);
 		Path tmpPath = new Path(projectRootPath);
-		mappedDataPath = new Path(tmpPath.toString() + mappedDataForAnalysis);
+		mappedDataPath = new Path(mappedDataForAnalysis);
 
 		System.out.println(String.format("  mappedDataPath %s", mappedDataPath));
 

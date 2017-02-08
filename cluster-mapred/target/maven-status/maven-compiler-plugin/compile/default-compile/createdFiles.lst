@@ -1,4 +1,9 @@
-com/bigdata/EntityAnalysisMRJob$EntityReducer.class
 com/bigdata/EntityAnalysisMRJob.class
+com/bigdata/etl/EntityStruct$DistanceStruct.class
 com/bigdata/EntityAnalysisMRJob$EntityMapper.class
 com/bigdata/EntityAnalysisMRJob$EntityReducerClusterSeeds.class
+com/bigdata/etl/EntityStruct.class
+com/bigdata/EntityAnalysisMRJob$EntityReducer.class
+com/bigdata/etl/EntityAnalysisETL.class
+com/bigdata/RunClusterFlow.class
+com/bigdata/etl/DuplicateStruct.class

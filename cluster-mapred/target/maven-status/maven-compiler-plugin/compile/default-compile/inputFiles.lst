@@ -1,1 +1,5 @@
 /home/oracle/workspace/cluster-mapred/src/main/java/com/bigdata/EntityAnalysisMRJob.java
+/home/oracle/workspace/cluster-mapred/src/main/java/com/bigdata/etl/DuplicateStruct.java
+/home/oracle/workspace/cluster-mapred/src/main/java/com/bigdata/etl/EntityAnalysisETL.java
+/home/oracle/workspace/cluster-mapred/src/main/java/com/bigdata/RunClusterFlow.java
+/home/oracle/workspace/cluster-mapred/src/main/java/com/bigdata/etl/EntityStruct.java

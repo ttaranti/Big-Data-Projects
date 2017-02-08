@@ -1,0 +1,29 @@
+Duplicate {  entityId='Allen & Company', fileID='001300000063ZHwAAM', value='711 5th Ave FL 8 New York NY 10022-3111 United States'  } 
+Duplicate {  entityId='Allen & Company', fileID='0013000000T7qkuAAB', value='711 5th Ave FL 8 New York NY 10022-3111 United States'  } 
+Duplicate {  entityId='Delaware Investments', fileID='0013000000Eq2faAAB', value='2005 Market St Ste 4100 Philadelphia PA 19103-7094 United States'  } 
+Duplicate {  entityId='Delaware Investments', fileID='0013000000HQ09xAAD', value='2005 Market St Ste 4100 Philadelphia PA 19103-7094 United States'  } 
+Duplicate {  entityId='Edward Jones', fileID='0013000000Eq2azAAB', value='12555 Manchester Rd Saint Louis MO 63131-3710 United States'  } 
+Duplicate {  entityId='Edward Jones', fileID='001300000063ZIVAA2', value='12555 Manchester Rd Saint Louis MO 63131 United States'  } 
+Duplicate {  entityId='First Eagle', fileID='0013000000JkQlwAAF', value='1345 Avenue of the Americas 43rd Fl New York NY 10105-0302 United States'  } 
+Duplicate {  entityId='First Eagle', fileID='0013000000Eq2uWAAR', value='1345 Avenue of the Americas 43rd Fl New York NY 10105-0302 United States'  } 
+Duplicate {  entityId='Manulife Financial', fileID='0013000000Eq0amAAB', value='200 Bloor Street East North Tower 7th Floor Toronto ON M4W 1E5 Canada'  } 
+Duplicate {  entityId='Mesirow Financial', fileID='001300000063aPZAAY', value='353 N Clark St Chicago IL 60654-4704 United States'  } 
+Duplicate {  entityId='Mesirow Financial', fileID='001300000063ZJeAAM', value='353 N Clark St Ste 400 Chicago IL 60654-4712 United States'  } 
+Duplicate {  entityId='Reliance Trust Company', fileID='001a000001Qq65XAAR', value='1100 Abernathy Rd Atlanta GA 30328-5646 United States'  } 
+Duplicate {  entityId='Reliance Trust Company', fileID='001300000063ZRfAAM', value='1100 Abernathy Rd Atlanta GA 30328-5646 United States'  } 
+Duplicate {  entityId='Robert W. Baird & Co. Incorporated', fileID='001300000063ZKBAA2', value='777 E Wisconsin Ave FL 29 Milwaukee WI 53202-5300 United States'  } 
+Duplicate {  entityId='Robert W. Baird & Co. Incorporated', fileID='0013000000Eq2mqAAB', value='777 E Wisconsin Ave FL 29 Milwaukee WI 53202-5300 United States'  } 
+Duplicate {  entityId='Rydex Investments', fileID='0013000000JlXXyAAN', value='9601 Blackwell Rd Ste 500 Rockville MD 20850-6478 United States'  } 
+Duplicate {  entityId='Rydex Investments', fileID='0013000000Iw69mAAB', value='9601 Blackwell Rd Ste 500 Rockville MD 20850-6478 United States'  } 
+Duplicate {  entityId='Rydex Investments', fileID='0013000000LfGRmAAN', value='9601 Blackwell Rd Ste 500 Rockville MD 20850-6478 United States'  } 
+Duplicate {  entityId='Rydex Investments', fileID='0013000000Iw69mAAB', value='9601 Blackwell Rd Ste 500 Rockville MD 20850-6478 United States'  } 
+Duplicate {  entityId='Rydex Investments', fileID='0013000000LfGRmAAN', value='9601 Blackwell Rd Ste 500 Rockville MD 20850-6478 United States'  } 
+Duplicate {  entityId='Rydex Investments', fileID='0013000000JlXXyAAN', value='9601 Blackwell Rd Ste 500 Rockville MD 20850-6478 United States'  } 
+Duplicate {  entityId='SEI Investments', fileID='0013000000Eq2mlAAB', value='1 Freedom Valley Dr Oaks PA 19456-9989 United States'  } 
+Duplicate {  entityId='SEI Investments', fileID='001300000063ZKKAA2', value='1 Freedom Valley Dr Oaks PA 19456-9989 United States'  } 
+Duplicate {  entityId='Thomas Weisel Partners LLC', fileID='0013000000I8WGhAAN', value='1 Montgomery St Ste 3700 San Francisco CA 94104 United States'  } 
+Duplicate {  entityId='Thomas Weisel Partners LLC', fileID='001300000063ZtWAAU', value='1 Montgomery St Ste 3700 San Francisco CA 94104-4505 United States'  } 
+Duplicate {  entityId='UMB Fund Services', fileID='0013000000pBMB0AAO', value='803 W Michigan St Ste A Milwaukee WI 53233-2301 United States'  } 
+Duplicate {  entityId='UMB Fund Services', fileID='0013000000vMHDUAA4', value='803 W Michigan St Ste A Milwaukee WI 53233-2301 United States'  } 
+Duplicate {  entityId='William Blair & Company LLC', fileID='0013000000Eq2ckAAB', value='222 W Adams St Ste 2900 Chicago IL 60606-5237 United States'  } 
+Duplicate {  entityId='William Blair & Company LLC', fileID='001300000063ZKyAAM', value='222 W Adams St Ste 2900 Chicago IL 60606-5237 United States'  } 
